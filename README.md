@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Pulkit's github stats](https://github-readme-stats.vercel.app/api?username=midopooler&show_icons=true&hide_border=true)
+[![Linkedin Badge](https://img.shields.io/badge/-Rahul Garg-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/rahulgarg-code/)](https://www.linkedin.com/in/rahulgarg-code/)
+![Rahul's github stats](https://github-readme-stats.vercel.app/api?username=midopooler&show_icons=true&hide_border=true)
