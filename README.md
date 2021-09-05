@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img src="./hi.gif" width="29px">
 
 <!--
 **rahulgarg28071998/rahulgarg28071998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
